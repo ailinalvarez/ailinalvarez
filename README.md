@@ -50,7 +50,7 @@ También tengo formación en educación, habiendo trabajado como docente de educ
 ![Mysql](http://img.shields.io/badge/-Mysql-white?style=for-the-badge&logo=mysql)
 
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=CSS&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-%663399?&style=for-the-badge&logo=CSS&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
