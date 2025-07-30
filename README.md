@@ -38,7 +38,7 @@ También tengo formación en educación, habiendo trabajado como docente de educ
 
 
 ### Languages & Tools:
-<p>
+
 
 [Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 [HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
@@ -47,5 +47,4 @@ También tengo formación en educación, habiendo trabajado como docente de educ
 [React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 
-</p>
 
