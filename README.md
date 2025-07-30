@@ -35,3 +35,15 @@ También tengo formación en educación, habiendo trabajado como docente de educ
 🔗 [LinkedIn](https://www.linkedin.com/in/ailin-alvarez/) | [Portafolio en GitHub](https://github.com/ailinalvarez)
 
 ¡Gracias por visitar mi perfil! 😊
+
+
+### Languages & Tools:
+<p>
+<code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+<code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>  
+<br />
+<code><img width="15%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
+<code><img width="15%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+
+</p>
+
