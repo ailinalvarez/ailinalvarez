@@ -1,6 +1,4 @@
-(debajo en español)
-
-## Hi there 👋
+## Hello you 👋
 
 I'm Ailín Alvarez — a Business Operations Specialist transitioning into Data Analytics.  
 With 4+ years of experience improving workflows, supporting cross-functional teams, and solving problems, I’m now applying that mindset to data.
@@ -19,7 +17,7 @@ Thanks for stopping by! 😊
 
 
 
-## ¡Hola! 👋
+## Buenas 👋
 
 Soy Ailín Alvarez — Especialista en Operaciones de Negocio en transición hacia el Análisis de Datos.  
 Con más de 4 años de experiencia optimizando flujos de trabajo, coordinando equipos multifuncionales y resolviendo problemas, ahora aplico esa mentalidad al mundo de los datos.
