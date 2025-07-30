@@ -11,7 +11,7 @@ Before working in tech, I was a special education teacher. That experience taugh
 👀 Open to opportunities in data analysis and business intelligence  
 📫 Reach me at: [ailinalvag@gmail.com](mailto:ailinalvag@gmail.com)  
 🌍 Argentinian based in Europe (between Sweden - Spain))— open to remote and international roles  
-🔗 [LinkedIn](https://www.linkedin.com/in/ailin-alvarez/) | [GitHub Portfolio](https://github.com/ailinalvarez)
+🔗 [LinkedIn](https://www.linkedin.com/in/ailin-alvarez/) 
 
 Thanks for stopping by! 😊
 
@@ -30,7 +30,7 @@ También tengo formación en educación, habiendo trabajado como docente de educ
 👀 Estoy explorando oportunidades en análisis de datos e inteligencia de negocios  
 📫 Puedes contactarme en: [ailinalvag@gmail.com](mailto:ailinalvag@gmail.com)  
 🌍 Soy argentina, vivo en Europa (entre Suecia y España) — disponible para trabajos remotos o internacionales  
-🔗 [LinkedIn](https://www.linkedin.com/in/ailin-alvarez/) | [Portafolio en GitHub](https://github.com/ailinalvarez)
+🔗 [LinkedIn](https://www.linkedin.com/in/ailin-alvarez/)
 
 ¡Gracias por visitar mi perfil! 😊
 
@@ -43,6 +43,7 @@ También tengo formación en educación, habiendo trabajado como docente de educ
 ![NumPy](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white)
 ![Mathworks](https://img.shields.io/badge/Mathworks%20-%230076A8.svg?&style=for-the-badge&logo=Mathworks&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23E20000.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Plotly](https://img.shields.io/badge/plotly-7A76FF.svg?style=for-the-badge&logo=plotly&logoColor=white)
 
 ![Sql](http://img.shields.io/badge/-Sql-00758f?style=for-the-badge&logo=Mysql&logoColor=white)
 ![Mysql](http://img.shields.io/badge/-Mysql-white?style=for-the-badge&logo=mysql)
@@ -66,6 +67,15 @@ También tengo formación en educación, habiendo trabajado como docente de educ
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
+
+### Projects I worked on for my studies
+
+[Megaline](https://github.com/ailinalvarez/sprint5)
+
+[Ice Online](https://github.com/ailinalvarez/sprint6)
+
+[Cars](https://github.com/ailinalvarez/sprint7)
+
 
 
 
