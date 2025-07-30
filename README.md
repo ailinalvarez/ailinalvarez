@@ -12,7 +12,7 @@ Before working in tech, I was a special education teacher. That experience taugh
 📊 I enjoy solving problems, building data-driven solutions, and learning something new every day  
 👀 Open to opportunities in data analysis and business intelligence  
 📫 Reach me at: [ailinalvag@gmail.com](mailto:ailinalvag@gmail.com)  
-🌍 Based in Sweden — open to remote and international roles  
+🌍 Argentinian based in Europe (between Sweden - Spain))— open to remote and international roles  
 🔗 [LinkedIn](https://www.linkedin.com/in/ailin-alvarez/) | [GitHub Portfolio](https://github.com/ailinalvarez)
 
 Thanks for stopping by! 😊
