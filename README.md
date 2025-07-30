@@ -42,15 +42,23 @@ También tengo formación en educación, habiendo trabajado como docente de educ
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white)
-![Sql](http://img.shields.io/badge/-Sql-00758f?style=flat-square&logo=Mysql&logoColor=white)
-![Mysql](http://img.shields.io/badge/-Mysql-white?style=flat-square&logo=mysql)
-![Git](http://img.shields.io/badge/-Git-white?style=flat-square&logo=git)
-![VS Code](http://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visualstudiocode&logoColor=3aa7f2)
+![NumPy](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white)
+![Mathworks](https://img.shields.io/badge/Mathworks%20-%230076A8.svg?&style=for-the-badge&logo=Mathworks&logoColor=white)
+
+![Sql](http://img.shields.io/badge/-Sql-00758f?style=for-the-badge&logo=Mysql&logoColor=white)
+![Mysql](http://img.shields.io/badge/-Mysql-white?style=for-the-badge&logo=mysql)
+![Git](http://img.shields.io/badge/-Git-white?style=for-the-badge&logo=git)
+![VS Code](http://img.shields.io/badge/-VS%20Code-black?style=for-the-badge&logo=visualstudiocode&logoColor=3aa7f2)
 
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+![Jupyter](https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
+![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
+![HitHub](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)
 
 
 
