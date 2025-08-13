@@ -1,4 +1,4 @@
-## Hello you 👋
+## Hello there 👋
 
 I'm Ailín Alvarez — a Business Operations Specialist transitioning into Data Analytics.  
 With 4+ years of experience improving workflows, supporting cross-functional teams, and solving problems, I’m now applying that mindset to data.
