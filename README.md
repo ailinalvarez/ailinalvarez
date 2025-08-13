@@ -70,6 +70,8 @@ También tengo formación en educación, habiendo trabajado como docente de educ
 
 ## Projects I am working on for my studies
 
+[Make data-driven Decisions](https://github.com/ailinalvarez/sprint10-data-driven-business-decisions)
+
 [Business Analysis](https://github.com/ailinalvarez/sprint9-businessAnalysis)
 
 [SQL](https://github.com/ailinalvarez/sprint8-SQL)
