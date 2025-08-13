@@ -68,13 +68,21 @@ También tengo formación en educación, habiendo trabajado como docente de educ
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 
-### Projects I worked on for my studies
+## Projects I am working on for my studies
+
+[Business Analysis](https://github.com/ailinalvarez/sprint9-businessAnalysis)
+
+[SQL](https://github.com/ailinalvarez/sprint8-SQL)
 
 [Megaline](https://github.com/ailinalvarez/sprint5)
 
 [Ice Online](https://github.com/ailinalvarez/sprint6)
 
 [Cars](https://github.com/ailinalvarez/sprint7)
+
+
+
+
 
 
 
