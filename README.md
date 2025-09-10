@@ -70,17 +70,20 @@ También tengo formación en educación, habiendo trabajado como docente de educ
 
 ## Projects I am working on for my studies
 
+[Fitness Model](https://github.com/ailinalvarez/fitness-model)
+
 [Make data-driven Decisions](https://github.com/ailinalvarez/sprint10-data-driven-business-decisions)
 
 [Business Analysis](https://github.com/ailinalvarez/sprint9-businessAnalysis)
 
 [SQL](https://github.com/ailinalvarez/sprint8-SQL)
 
+[Cars](https://github.com/ailinalvarez/sprint7)
+
 [Megaline](https://github.com/ailinalvarez/sprint5)
 
 [Ice Online](https://github.com/ailinalvarez/sprint6)
 
-[Cars](https://github.com/ailinalvarez/sprint7)
 
 
 
