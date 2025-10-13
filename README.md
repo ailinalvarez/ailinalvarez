@@ -78,7 +78,7 @@ También tengo formación en educación, habiendo trabajado como docente de educ
 
 [Business Analysis](https://github.com/ailinalvarez/sprint9-businessAnalysis)
 
-[SQL](https://github.com/ailinalvarez/sprint8-SQL)
+[SQL](https://github.com/ailinalvarez/app_de_libros.git)
 
 [Cars](https://github.com/ailinalvarez/sprint7)
 
