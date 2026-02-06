@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-I'm Ailín Alvarez — a Business Operations Specialist transitioning into Data Analytics.  
+I'm Ailín Alvarez — a Business Operations Specialist certified as a Data Analyst.  
 With 4+ years of experience improving workflows, supporting cross-functional teams, and solving problems, I’m now applying that mindset to data.
 
 Before working in tech, I was a special education teacher. That experience taught me to communicate clearly, stay adaptable, and always consider context — because every problem requires a different solution depending on the factors around it. I bring this same perspective to data: thoughtful, flexible, and human-centered.
@@ -19,7 +19,7 @@ Thanks for stopping by! 😊
 
 ## Buenas 👋
 
-Soy Ailín Alvarez — Especialista en Operaciones de Negocio en transición hacia el Análisis de Datos.  
+Soy Ailín Alvarez — Especialista en Operaciones de Negocio certificada en el Análisis de Datos.  
 Con más de 4 años de experiencia optimizando flujos de trabajo, coordinando equipos multifuncionales y resolviendo problemas, ahora aplico esa mentalidad al mundo de los datos.
 
 También tengo formación en educación, habiendo trabajado como docente de educación especial. Esta experiencia fortaleció mis habilidades de comunicación, empatía y adaptabilidad.
