@@ -1,99 +1,46 @@
-## Hello there 👋
+# Hi there! I'm Ailín Alvarez 👋 
 
-I'm Ailín Alvarez — a Business Operations Specialist certified as a Data Analyst.  
-With 4+ years of experience improving workflows, supporting cross-functional teams, and solving problems, I’m now applying that mindset to data.
+### **Business Operations Specialist | Data Analyst**
+**Transforming operational workflows into data-driven strategies.**
 
-Before working in tech, I was a special education teacher. That experience taught me to communicate clearly, stay adaptable, and always consider context — because every problem requires a different solution depending on the factors around it. I bring this same perspective to data: thoughtful, flexible, and human-centered.
+---
 
-🔭 Currently working on hands-on data projects with Python, SQL, and Excel  
-🌱 Studying data analytics at TripleTen  
-📊 I enjoy solving problems, building data-driven solutions, and learning something new every day  
-👀 Open to opportunities in data analysis and business intelligence  
-📫 Reach me at: [ailinalvag@gmail.com](mailto:ailinalvag@gmail.com)  
-🌍 Argentinian based in Europe (between Sweden - Spain))— open to remote and international roles  
-🔗 [LinkedIn](https://www.linkedin.com/in/ailin-alvarez/) 
+### 👤 Profile | Perfil Profesional
 
-Thanks for stopping by! 😊
+**English:** With 4+ years of experience optimizing business operations and leading cross-functional teams, I’ve evolved my career toward **Data Analytics**. My background in **Special Education** is my competitive edge: it developed my ability to communicate complex insights clearly and maintain a human-centered approach to technical problem-solving. I don't just process data; I translate it into actionable business solutions.
 
+**Español:** Con más de 4 años de experiencia optimizando operaciones y coordinando equipos, he evolucionado mi carrera hacia el **Análisis de Datos**. Mi formación en **Educación Especial** es mi ventaja competitiva: desarrolló mi capacidad para comunicar hallazgos complejos de forma clara y mantener un enfoque humano en la resolución de problemas técnicos. No solo proceso datos; los traduzco en soluciones de negocio accionables.
 
+---
 
-## Buenas 👋
+### 🛠️ Tech Stack & Tools | Tecnologías y Herramientas
 
-Soy Ailín Alvarez — Especialista en Operaciones de Negocio certificada en el Análisis de Datos.  
-Con más de 4 años de experiencia optimizando flujos de trabajo, coordinando equipos multifuncionales y resolviendo problemas, ahora aplico esa mentalidad al mundo de los datos.
+| Category | Technologies |
+| :--- | :--- |
+| **Data Analysis** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) |
+| **Visualization** | ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=flat-square&logo=matplotlib&logoColor=black) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white) |
+| **Development** | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white) |
+| **Operations** | ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) |
 
-También tengo formación en educación, habiendo trabajado como docente de educación especial. Esta experiencia fortaleció mis habilidades de comunicación, empatía y adaptabilidad.
+---
 
-🔭 Actualmente estoy trabajando en proyectos prácticos con Python, SQL y Excel  
-🌱 Estudio análisis de datos en TripleTen  
-📊 Disfruto resolver problemas, construir soluciones basadas en datos y aprender algo nuevo cada día  
-👀 Estoy explorando oportunidades en análisis de datos e inteligencia de negocios  
-📫 Puedes contactarme en: [ailinalvag@gmail.com](mailto:ailinalvag@gmail.com)  
-🌍 Soy argentina, vivo en Europa (entre Suecia y España) — disponible para trabajos remotos o internacionales  
-🔗 [LinkedIn](https://www.linkedin.com/in/ailin-alvarez/)
+### 🚀 Featured Projects | Proyectos Destacados
+*Focusing on real-world business problems and data-driven solutions:*
 
-¡Gracias por visitar mi perfil! 😊
+* 📊 **[Fitness Model](https://github.com/ailinalvarez/fitness-model)** | **Churn Prediction**: Using Machine Learning (K-means) to identify patterns and predict user retention.
+* 📈 **[Data-Driven Decisions](https://github.com/ailinalvarez/sprint10-data-driven-business-decisions)** | **A/B Testing**: Prioritizing hypotheses and analyzing test results to optimize revenue.
+* 🗄️ **[SQL - Book App Analysis](https://github.com/ailinalvarez/app_de_libros.git)** | **Database Insights**: Extracting and analyzing relational data to understand reader behavior.
+* 🏎️ **[Car Market Analysis](https://github.com/ailinalvarez/sprint7)** | **EDA**: Identifying factors that influence vehicle prices using Python and Pandas.
+* 📞 **[Megaline Telecom](https://github.com/ailinalvarez/sprint5)** | **Statistical Analysis**: Recommending profitable plans based on client behavior.
+* 🎮 **[Ice Online Gaming](https://github.com/ailinalvarez/sprint6)** | **Sales Analysis**: Identifying patterns that determine the success of a video game.
 
+---
 
-### Languages & Tools:
+### 📫 Connect with me | Contacto
+* **LinkedIn:** [linkedin.com/in/ailin-alvarez](https://www.linkedin.com/in/ailin-alvarez/)
+* **Email:** [ailinalvag@gmail.com](mailto:ailinalvag@gmail.com)
+* **Location:** Argentinian based in Europe (Sweden/Spain) - Open to remote & international roles.
 
-
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white)
-![Mathworks](https://img.shields.io/badge/Mathworks%20-%230076A8.svg?&style=for-the-badge&logo=Mathworks&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23E20000.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Plotly](https://img.shields.io/badge/plotly-7A76FF.svg?style=for-the-badge&logo=plotly&logoColor=white)
-
-![Sql](http://img.shields.io/badge/-Sql-00758f?style=for-the-badge&logo=Mysql&logoColor=white)
-![Mysql](http://img.shields.io/badge/-Mysql-white?style=for-the-badge&logo=mysql)
-
-![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-663399?&style=for-the-badge&logo=CSS&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
-![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
-![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-![Confluence](https://img.shields.io/badge/confluence-172B4D.svg?style=for-the-badge&logo=confluence&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-
-![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
-
-## Projects I am working on for my studies
-
-[CallMeMaybe](https://github.com/ailinalvarez/CallMeMaybe)
-
-[Rocommended_system](https://github.com/ailinalvarez/system_recommendation)
-
-[Fitness Model](https://github.com/ailinalvarez/fitness-model)
-
-[Make data-driven Decisions](https://github.com/ailinalvarez/sprint10-data-driven-business-decisions)
-
-[Business Analysis](https://github.com/ailinalvarez/sprint9-businessAnalysis)
-
-[SQL](https://github.com/ailinalvarez/app_de_libros.git)
-
-[Cars](https://github.com/ailinalvarez/sprint7)
-
-[Megaline](https://github.com/ailinalvarez/sprint5)
-
-[Ice Online](https://github.com/ailinalvarez/sprint6)
-
-
-
-
-
-
-
-
-
+---
+*"Every problem requires a different solution depending on the factors around it."*
 
