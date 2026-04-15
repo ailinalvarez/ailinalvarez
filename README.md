@@ -27,11 +27,11 @@
 ### 🚀 Featured Projects | Proyectos Destacados
 *Focusing on real-world business problems and data-driven solutions:*
 
-* 📊 **[CallMeMaybe (Telecom)](https://github.com/ailinalvarez/CallMeMaybe/tree/git_tripleten)** | **Identifying Inefficient Operators**: Using Python and statistical analysis.
+* 📲 **[CallMeMaybe (Telecom)](https://github.com/ailinalvarez/CallMeMaybe/tree/git_tripleten)** | **Identifying Inefficient Operators**: Using Python and statistical analysis.
 * 📊 **[Model Fitness (Gym Churn)](https://github.com/ailinalvarez/fitness-model)** | **Churn Prediction**: Using Machine Learning (K-means) to identify patterns and predict user retention.
 * 📈 **[Data-Driven Decisions (A/B Test)](https://github.com/ailinalvarez/sprint10-data-driven-business-decisions)** | **A/B Testing**: Prioritizing hypotheses and analyzing test results to optimize revenue.
-* 🎮 **[Showz](https://github.com/ailinalvarez/Business-Analysis/blob/main/proyectoS9.ipynb)** | **Marketing Analysis**: LTV, CAC, ROMI per cohort and channel.
-* * 🗄️ **[SQL - Book App Analysis](https://github.com/ailinalvarez/app_de_libros.git)** | **Database Insights**: Extracting and analyzing relational data to understand reader behavior.
+* 🎟️ **[Showz (Marketing Analysis)](https://github.com/ailinalvarez/Business-Analysis/blob/main/proyectoS9.ipynb)** | **Marketing Analysis**: LTV, CAC, ROMI per cohort and channel.
+* 📚 **[SQL - Book App Analysis](https://github.com/ailinalvarez/app_de_libros.git)** | **Database Insights**: Extracting and analyzing relational data to understand reader behavior.
 
 ---
 
