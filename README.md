@@ -1,6 +1,6 @@
 # Hi there! I'm Ailín Alvarez 👋 
 
-### **Business Operations Specialist | Data Analyst**
+### **Business Analyst | People Operations Specialist **
 **Transforming operational workflows into data-driven strategies.**
 
 ---
