@@ -7,9 +7,9 @@
 
 ### 👤 Profile | Perfil Profesional
 
-**English:** With 3+ years of experience optimizing business operations and leading cross-functional teams, I’ve evolved my career toward **Data Analytics**. My background in **Special Education** is my competitive edge: it developed my ability to communicate complex insights clearly and maintain a human-centered approach to technical problem-solving. I don't just process data; I translate it into actionable business solutions.
+**🇺🇸 English:** With 3+ years of experience optimizing business operations and leading cross-functional teams, I’ve evolved my career toward **Data Analytics**. My background in **Special Education** is my competitive edge: it developed my ability to communicate complex insights clearly and maintain a human-centered approach to technical problem-solving. I don't just process data; I translate it into actionable business solutions.
 
-**Español:** Con más de 3 años de experiencia optimizando operaciones y coordinando equipos, he evolucionado mi carrera hacia el **Análisis de Datos**. Mi formación en **Educación Especial** es mi ventaja competitiva: desarrolló mi capacidad para comunicar hallazgos complejos de forma clara y mantener un enfoque humano en la resolución de problemas técnicos. No solo proceso datos; los traduzco en soluciones de negocio accionables.
+**🇪🇸 Español:** Con más de 3 años de experiencia optimizando operaciones y coordinando equipos, he evolucionado mi carrera hacia el **Análisis de Datos**. Mi formación en **Educación Especial** es mi ventaja competitiva: desarrolló mi capacidad para comunicar hallazgos complejos de forma clara y mantener un enfoque humano en la resolución de problemas técnicos. No solo proceso datos; los traduzco en soluciones de negocio accionables.
 
 ---
 
