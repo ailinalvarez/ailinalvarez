@@ -27,6 +27,7 @@
 ### 🚀 Featured Projects | Proyectos Destacados
 *Focusing on real-world business problems and data-driven solutions:*
 
+* 📈 **[Revenue Analysis](https://github.com/ailinalvarez/revenue_analysis)** | **BI analysis of company revenue and sales rep performance**: Using MetaBase & MySQL for analysis and presentation.
 * 📲 **[CallMeMaybe (Telecom)](https://github.com/ailinalvarez/CallMeMaybe/tree/git_tripleten)** | **Identifying Inefficient Operators**: Using Python and statistical analysis.
 * 📊 **[Model Fitness (Gym Churn)](https://github.com/ailinalvarez/fitness-model)** | **Churn Prediction**: Using Machine Learning (K-means) to identify patterns and predict user retention.
 * 📈 **[Data-Driven Decisions (A/B Test)](https://github.com/ailinalvarez/sprint10-data-driven-business-decisions)** | **A/B Testing**: Prioritizing hypotheses and analyzing test results to optimize revenue.
